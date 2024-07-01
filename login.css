@@ -1,0 +1,67 @@
+.frame-icon {
+  position: absolute;
+  top: -603px;
+  left: -437px;
+  width: 2394px;
+  height: 2138px;
+  overflow: hidden;
+}
+.frame-icon1 {
+  width: 1340.5px;
+  position: relative;
+  height: 167.3px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.span1 {
+  white-space: pre-wrap;
+}
+.span1,
+.span2 {
+  color: var(--neutral-white);
+}
+.pay {
+  color: var(--color-dodgerblue);
+}
+.ad-u-pay-container {
+  width: 660px;
+  position: relative;
+  display: inline-block;
+  height: 159px;
+  flex-shrink: 0;
+}
+.frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  margin-top: -141px;
+}
+.frame,
+.login1,
+.logo {
+  overflow: hidden;
+}
+.logo {
+  position: absolute;
+  top: 466px;
+  left: -437px;
+  width: 1687px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.login1 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(#273992, #273992), #25408f;
+  height: 1117px;
+  cursor: pointer;
+  text-align: left;
+  font-size: 100px;
+  color: var(--color-darkslateblue-200);
+  font-family: var(--font-poppins);
+}

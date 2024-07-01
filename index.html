@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;500;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="account-information">
+      <img class="grad-icon" alt="" src="./public/grad.svg" />
+
+      <div class="information-container">
+        <div class="container">
+          <div class="container">
+            <div class="container-child"></div>
+          </div>
+          <div class="account-information2">
+            <div class="student-id-parent">
+              <div class="student-id">
+                <div class="div">202400001</div>
+                <div class="student-id1">Student Id :</div>
+              </div>
+              <div class="name">
+                <div class="snoop-dog">Snoop Dog</div>
+                <div class="name1">Name :</div>
+              </div>
+              <div class="course">
+                <div class="bachelor-of-science-container">
+                  <span class="bachelor-of-science-container1">
+                    <p class="bachelor-of-science">
+                      Bachelor of Science in Information Technology
+                    </p>
+                  </span>
+                </div>
+                <div class="course1">Course :</div>
+              </div>
+              <div class="year-level">
+                <div class="nd-year">2nd year</div>
+                <div class="gbox-sdoggboxadnueduph">Year level:</div>
+              </div>
+              <div class="year-level">
+                <div class="gbox-sdoggboxadnueduph">Gbox:</div>
+                <div class="gbox-sdoggboxadnueduph">
+                  Gbox: Sdog@gbox.adnu.edu.ph
+                </div>
+              </div>
+              <div class="gmail">
+                <div class="gbox-sdoggboxadnueduph">Gmail:</div>
+                <div class="sdoggboxadnueduph">Sdog@gbox.adnu.edu.ph</div>
+              </div>
+              <div class="year-level">
+                <div class="gbox-sdoggboxadnueduph">Cellphone no:</div>
+                <div class="div1">09123456789</div>
+              </div>
+              <div class="year-level">
+                <div class="nd-year">Debit acc: 0000 0000 0000 000</div>
+                <div class="gbox-sdoggboxadnueduph">Debit acc:</div>
+              </div>
+            </div>
+            <div class="account-information3">Account Information</div>
+          </div>
+        </div>
+        <div class="back-button">
+          <div class="back">Back</div>
+          <img
+            class="back-button-child"
+            alt=""
+            src="./public/rectangle-4048.svg"
+            id="rectangle"
+          />
+        </div>
+      </div>
+      <div class="extra">
+        <div class="settings">Settings</div>
+        <div class="welcome">Welcome, KARL!</div>
+        <img class="profile-icon" alt="" src="./public/profile@2x.png" />
+
+        <div class="welcome">Welcome, !</div>
+        <div class="extra-child"></div>
+        <img class="bell-pin-icon" alt="" src="./public/bell-pin@2x.png" />
+      </div>
+      <div class="sidebar">
+        <div class="background"></div>
+        <div class="adnupay-ver01beta">AdNUPay ver0.1beta</div>
+        <div class="hover"></div>
+        <div class="settings1">
+          <div class="settings2">Settings</div>
+          <div class="rectangle-parent">
+            <div class="group-child"></div>
+            <div class="group-item"></div>
+            <div class="group-inner"></div>
+            <div class="rectangle-div"></div>
+          </div>
+        </div>
+        <div class="transaction" id="transactionContainer">
+          <div class="transaction1">Transaction</div>
+          <img class="transaction-child" alt="" src="./public/group-4.svg" />
+        </div>
+        <div class="payment" id="paymentContainer">
+          <div class="payment1">Payment</div>
+          <img class="payment-child" alt="" src="./public/group-3.svg" />
+        </div>
+        <div class="dashboard" id="dashboardContainer">
+          <div class="dashboard1">Dashboard</div>
+          <img class="dashboard-child" alt="" src="./public/group-2.svg" />
+        </div>
+        <img
+          class="header-icon"
+          alt=""
+          src="./public/header@2x.png"
+          id="headerImage"
+        />
+      </div>
+    </div>
+
+    <script>
+      var rectangle = document.getElementById("rectangle");
+      if (rectangle) {
+        rectangle.addEventListener("click", function (e) {
+          window.location.href = "./settings.html";
+        });
+      }
+
+      var transactionContainer = document.getElementById("transactionContainer");
+      if (transactionContainer) {
+        transactionContainer.addEventListener("click", function (e) {
+          window.location.href = "./transaction.html";
+        });
+      }
+
+      var paymentContainer = document.getElementById("paymentContainer");
+      if (paymentContainer) {
+        paymentContainer.addEventListener("click", function (e) {
+          window.location.href = "./payment.html";
+        });
+      }
+
+      var dashboardContainer = document.getElementById("dashboardContainer");
+      if (dashboardContainer) {
+        dashboardContainer.addEventListener("click", function (e) {
+          window.location.href = "./dashboard.html";
+        });
+      }
+
+      var headerImage = document.getElementById("headerImage");
+      if (headerImage) {
+        headerImage.addEventListener("click", function (e) {
+          window.location.href = "./dashboard.html";
+        });
+      }
+    </script>
+  </body>
+</html>

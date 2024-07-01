@@ -1,0 +1,275 @@
+.grad-child,
+.grad-item {
+  position: absolute;
+  top: 738px;
+  left: 675px;
+  filter: blur(400px);
+  border-radius: 50%;
+  background-color: #a39bff;
+  width: 1195px;
+  height: 651px;
+}
+.grad-item {
+  top: 0;
+  left: 0;
+  background-color: #5647ff;
+  width: 1045px;
+}
+.grad {
+  position: absolute;
+  top: -104px;
+  left: 87px;
+  width: 1870px;
+  height: 1389px;
+}
+.login-page-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue-200);
+  width: 1728px;
+  height: 1117px;
+}
+.logo-icon {
+  position: absolute;
+  top: 271px;
+  left: calc(50% + 381px);
+  width: 230px;
+  height: 227px;
+  object-fit: cover;
+}
+.group-child26 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-whitesmoke-200);
+  width: 319px;
+  height: 31.6px;
+}
+.student-id2,
+.user-icon {
+  position: absolute;
+  top: 8.9px;
+}
+.student-id2 {
+  left: 35.3px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-lato);
+  color: var(--color-darkgray-100);
+  text-align: left;
+  display: inline-block;
+  width: 57.5px;
+  height: 13.8px;
+}
+.user-icon {
+  left: 14.1px;
+  width: 13.1px;
+  height: 12.8px;
+}
+.rectangle-parent6,
+.sais-pin {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 319px;
+  height: 31.6px;
+}
+.sais-pin {
+  top: 8.8px;
+  left: 35.3px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-lato);
+  color: var(--color-darkgray-100);
+  text-align: left;
+  display: inline-block;
+  width: 48.5px;
+  height: 13.8px;
+}
+.lock-alt-icon,
+.view-icon {
+  position: absolute;
+  top: 10.8px;
+  left: 15.1px;
+  width: 11.1px;
+  height: 10.9px;
+}
+.view-icon {
+  top: 8.8px;
+  left: 290.7px;
+  width: 14.1px;
+  height: 13.8px;
+}
+.need-assistance,
+.rectangle-parent7 {
+  position: absolute;
+  top: 42.5px;
+  left: 0;
+  width: 319px;
+  height: 31.6px;
+}
+.need-assistance {
+  top: 88.9px;
+  left: 212px;
+  font-size: var(--font-size-xs);
+  text-decoration: underline;
+  font-family: var(--font-lato);
+  color: var(--color-royalblue-100);
+  text-align: right;
+  display: inline-block;
+  width: 90.9px;
+  height: 13.8px;
+}
+.forms {
+  position: absolute;
+  top: 574.2px;
+  left: 1200px;
+  width: 319px;
+  height: 102.7px;
+}
+.sign-in-with-student-id-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  width: 319px;
+  height: 32.6px;
+}
+.login {
+  position: absolute;
+  top: 9px;
+  left: calc(50% - 20.5px);
+  font-size: var(--font-size-xs);
+  display: inline-block;
+  font-family: var(--font-lato);
+  color: var(--neutral-white);
+  text-align: left;
+  width: 54px;
+  height: 14px;
+}
+.sign-in-with-student-id {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 725px;
+  left: 1201px;
+  width: 319px;
+  height: 32.6px;
+}
+.or1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 14.3px);
+  font-size: var(--font-size-mini);
+  display: inline-block;
+  font-family: var(--font-lato);
+  color: var(--neutral-white);
+  text-align: right;
+  width: 26.9px;
+  height: 9.9px;
+}
+.or-child {
+  top: 4.4px;
+  left: -0.5px;
+  border-top: 1px solid var(--neutral-white);
+  box-sizing: border-box;
+  width: 67.4px;
+  height: 1px;
+}
+.or,
+.or-child,
+.or-item {
+  position: absolute;
+}
+.or-item {
+  top: 4.4px;
+  left: 126.9px;
+  border-top: 1px solid var(--neutral-white);
+  box-sizing: border-box;
+  width: 67.4px;
+  height: 1px;
+}
+.or {
+  top: 772px;
+  left: calc(50% + 393px);
+  width: 193.8px;
+  height: 9.9px;
+}
+.connect-with-google-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  width: 319px;
+  height: 31.6px;
+}
+.connect-with-adnu {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 63.6px);
+  font-size: var(--font-size-xs);
+  display: inline-block;
+  font-family: var(--font-lato);
+  color: #fafafa;
+  text-align: left;
+  width: 148.4px;
+  height: 13.8px;
+}
+.image-4-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 15.1px;
+  height: 14.8px;
+  object-fit: cover;
+}
+.connect-with-adnu-gbox-parent {
+  position: absolute;
+  top: 7.9px;
+  left: calc(50% - 84.8px);
+  width: 169.6px;
+  height: 14.8px;
+}
+.connect-with-google {
+  position: absolute;
+  top: 813px;
+  left: 1200px;
+  width: 319px;
+  height: 31.6px;
+  cursor: pointer;
+}
+.login-page-item {
+  position: absolute;
+  top: -1088px;
+  left: 238.9px;
+  background-color: var(--neutral-white);
+  width: 1437px;
+  height: 1991.9px;
+  transform: rotate(33deg);
+  transform-origin: 0 0;
+}
+.logo-shapes-51 {
+  position: absolute;
+  height: 24.62%;
+  width: 39.8%;
+  top: 23.16%;
+  right: 49.83%;
+  bottom: 52.22%;
+  left: 10.37%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.login-page {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-darkslateblue-100);
+  width: 100%;
+  position: relative;
+  height: 1117px;
+  overflow: hidden;
+}

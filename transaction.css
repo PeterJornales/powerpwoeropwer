@@ -1,0 +1,461 @@
+.grad-icon3 {
+  position: absolute;
+  top: -104px;
+  left: 87px;
+  width: 1870px;
+  height: 1389px;
+}
+.container-child1,
+.gcash {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.container-child1 {
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gray-500);
+  width: 1196px;
+  height: 711px;
+}
+.gcash {
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 86px;
+  height: 14px;
+}
+.gcash-parent,
+.ref109123 {
+  position: absolute;
+  width: 141px;
+}
+.ref109123 {
+  top: 26px;
+  left: 0;
+  font-size: var(--font-size-xs);
+  color: var(--color-dodgerblue);
+  display: flex;
+  align-items: center;
+  height: 15px;
+}
+.gcash-parent {
+  top: 0;
+  left: 241px;
+  height: 41px;
+}
+.pm,
+.tuition-fee,
+.tuition-fee-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 145px;
+}
+.tuition-fee {
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  height: 13px;
+}
+.pm,
+.tuition-fee-parent {
+  height: 41px;
+}
+.pm {
+  top: 26px;
+  display: flex;
+  align-items: center;
+  width: 141px;
+  height: 15px;
+}
+.pm-parent,
+.tue-21-sept {
+  position: absolute;
+  top: 0;
+  width: 176px;
+}
+.tue-21-sept {
+  left: 0;
+  font-size: var(--font-size-mini);
+  font-weight: 500;
+  color: var(--color-whitesmoke-100);
+  display: flex;
+  align-items: center;
+  height: 14px;
+}
+.pm-parent {
+  left: 473px;
+  height: 41px;
+  font-size: var(--font-size-xs);
+  color: var(--color-dodgerblue);
+}
+.completed,
+.div4 {
+  top: calc(50% - 20.5px);
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 128px;
+  height: 38px;
+}
+.completed {
+  position: absolute;
+  left: 704px;
+}
+.div4 {
+  left: 950px;
+  color: var(--color-tomato);
+}
+.div4,
+.div5,
+.uid1 {
+  position: absolute;
+}
+.uid1 {
+  top: 257px;
+  left: 63px;
+  width: 1078px;
+  height: 41px;
+}
+.div5 {
+  top: calc(50% - 20.5px);
+  left: 950px;
+  font-weight: 500;
+  color: var(--color-palegreen-100);
+  display: flex;
+  align-items: center;
+  width: 128px;
+  height: 38px;
+}
+.uid11,
+.uid12,
+.uid13,
+.uid14,
+.uid15,
+.uid16 {
+  position: absolute;
+  top: 331px;
+  left: 63px;
+  width: 1078px;
+  height: 41px;
+}
+.uid12,
+.uid13,
+.uid14,
+.uid15,
+.uid16 {
+  top: 405px;
+}
+.uid13,
+.uid14,
+.uid15,
+.uid16 {
+  top: 479px;
+}
+.uid14,
+.uid15,
+.uid16 {
+  top: 553px;
+}
+.uid15,
+.uid16 {
+  top: 627px;
+}
+.uid16 {
+  top: 183px;
+}
+.amount,
+.date,
+.name3,
+.status,
+.type {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 54.1px;
+  height: 23.5px;
+}
+.amount,
+.date,
+.status,
+.type {
+  left: 241px;
+  width: 45.1px;
+}
+.amount,
+.date,
+.status {
+  top: 0;
+  left: 473px;
+  width: 43.8px;
+}
+.amount,
+.status {
+  left: 704px;
+  width: 59.3px;
+}
+.amount {
+  left: 950px;
+  width: 72.2px;
+}
+.sub-header {
+  position: absolute;
+  top: 126px;
+  left: 63px;
+  width: 1022.2px;
+  height: 25.5px;
+  color: var(--color-gray-200);
+}
+.payment-history {
+  position: absolute;
+  top: 44px;
+  left: 63px;
+  font-size: var(--font-size-13xl);
+  display: flex;
+  align-items: center;
+  width: 398.2px;
+  height: 50.9px;
+}
+.container3 {
+  position: absolute;
+  top: 140px;
+  left: 445px;
+  width: 1196px;
+  height: 711px;
+}
+.profile-icon3,
+.transaction7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.profile-icon3 {
+  top: 7px;
+  left: 972px;
+  width: 41px;
+  height: 37px;
+  object-fit: cover;
+}
+.welcome3 {
+  position: absolute;
+  top: 13px;
+  left: 1019px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 180px;
+  height: 43px;
+}
+.line-div {
+  position: absolute;
+  top: 55.5px;
+  left: 1.5px;
+  border-top: 1px solid var(--neutral-white);
+  box-sizing: border-box;
+  width: 631px;
+  height: 1px;
+}
+.bell-pin-icon3 {
+  position: absolute;
+  top: 13px;
+  left: 915px;
+  width: 34px;
+  height: 33px;
+  object-fit: cover;
+}
+.extra3 {
+  position: absolute;
+  top: 51px;
+  left: 445px;
+  width: 1199px;
+  height: 56px;
+  font-size: var(--font-size-13xl);
+}
+.background3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke-100);
+}
+.adnupay-ver01beta3 {
+  position: absolute;
+  top: 1063px;
+  left: calc(50% - 59px);
+  font-size: var(--font-size-xs);
+  text-decoration: underline;
+  color: var(--color-mediumslateblue);
+}
+.hover3 {
+  position: absolute;
+  height: 2.15%;
+  top: 34.83%;
+  bottom: 63.03%;
+  left: calc(50% - 137px);
+  background-color: var(--color-darkslateblue-200);
+  width: 4px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  display: none;
+}
+.settings11 {
+  position: absolute;
+  top: calc(50% - 9px);
+  left: 34.44%;
+}
+.group-child10,
+.group-child11,
+.group-child12,
+.group-child9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-12xs);
+  border: 2px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 7.1px;
+  height: 7.1px;
+}
+.group-child10,
+.group-child11,
+.group-child12 {
+  top: 7.9px;
+}
+.group-child11,
+.group-child12 {
+  top: 0;
+  left: 7.9px;
+}
+.group-child12 {
+  top: 7.9px;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 13px;
+  height: 13px;
+}
+.settings10 {
+  position: absolute;
+  width: 25.71%;
+  top: calc(50% - 107.5px);
+  right: 56.86%;
+  left: 17.43%;
+  height: 18px;
+  cursor: pointer;
+}
+.transaction9 {
+  position: absolute;
+  top: calc(50% - 9px);
+  left: 27.83%;
+}
+.group-icon {
+  position: absolute;
+  height: 72.22%;
+  width: 12%;
+  top: 11.11%;
+  right: 88%;
+  bottom: 16.67%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.transaction8 {
+  position: absolute;
+  width: 32.86%;
+  top: calc(50% - 166.5px);
+  right: 50%;
+  left: 17.14%;
+  height: 18px;
+  cursor: pointer;
+  color: var(--color-gray-300);
+}
+.payment7 {
+  position: absolute;
+  top: calc(50% - 9px);
+  left: 33.68%;
+}
+.payment-child1 {
+  position: absolute;
+  height: 56.11%;
+  width: 14.74%;
+  top: 22.22%;
+  right: 85.26%;
+  bottom: 21.67%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.payment6 {
+  position: absolute;
+  width: 27.14%;
+  top: calc(50% - 225.5px);
+  right: 55.71%;
+  left: 17.14%;
+  height: 18px;
+  cursor: pointer;
+}
+.dashboard8 {
+  position: absolute;
+  top: calc(50% - 9px);
+  left: 29.09%;
+}
+.dashboard-child1 {
+  position: absolute;
+  height: 88.89%;
+  width: 12.73%;
+  top: 5.56%;
+  right: 87.27%;
+  bottom: 5.56%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dashboard7,
+.header-icon3 {
+  position: absolute;
+  cursor: pointer;
+}
+.dashboard7 {
+  width: 31.43%;
+  top: calc(50% - 284.5px);
+  right: 51.43%;
+  left: 17.14%;
+  height: 18px;
+}
+.header-icon3 {
+  height: 10.21%;
+  top: 6.27%;
+  bottom: 83.53%;
+  left: calc(50% - 58px);
+  max-height: 100%;
+  width: 114px;
+  object-fit: cover;
+}
+.sidebar3 {
+  position: absolute;
+  top: -2px;
+  left: 0;
+  width: 350px;
+  height: 1117px;
+  color: var(--color-gray-100);
+}
+.transaction6 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-darkslateblue-200);
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-whitesmoke-100);
+  font-family: var(--text-regular-2);
+}
